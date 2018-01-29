@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jpinto.portao.ui.HomeActivity">
+    <item
+        android:id="@+id/action_btnList"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/btn_list"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

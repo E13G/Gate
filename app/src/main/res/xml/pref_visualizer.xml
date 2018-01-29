@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="@string/pref_api_default"
+        android:key="@string/pref_api_key"
+        android:title="@string/pref_api_label"
+        />
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_switch_user_code_default"
+        android:key="@string/pref_switch_user_code_key"
+        android:title="@string/pref_switch_user_code_label"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_switch_state_default"
+        android:key="@string/pref_switch_state_key"
+        android:title="@string/pref_switch_state_label"/>
+</PreferenceScreen>

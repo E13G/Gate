@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_usercode_options">
+        <item>@string/switch_user_code_default</item>
+        <item>@string/switch_user_code_default</item>
+        <item>@string/switch_user_code_default</item>
+    </string-array>
+    <string-array name="array_state_options">
+        <item>@string/switch_state_default</item>
+        <item>@string/switch_state_default</item>
+        <item>@string/switch_state_default</item>
+    </string-array>
+</resources>
